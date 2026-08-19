@@ -386,7 +386,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name               | Link                                                                                                                        | Description                                                                                                                                                         | Price                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 15,896 \| 🐛 203 \| 🌐 C# \| 📅 2026-08-19                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
+| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 15,897 \| 🐛 203 \| 🌐 C# \| 📅 2026-08-19                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
 | Torrents API PY    | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) ⭐ 420 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-17 | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre     | FREE                 |
 | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/)                                  | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt                                                                                            | 500 queries/day FREE |
 | Torrent search api | <https://github.com/JimmyLaurent/torrent-search-api> ⭐ 455 \| 🐛 21 \| 🌐 HTML \| 📅 2024-08-12                             | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE                 |
@@ -484,7 +484,7 @@ Thank you for following me! <https://cybdetective.com>
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 465,333 \| 🐛 1,704 \| 🌐 Python \| 📅 2026-08-18 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 465,359 \| 🐛 1,704 \| 🌐 Python \| 📅 2026-08-18 |             |
 
 ## How to learn how to work with REST API?
 
