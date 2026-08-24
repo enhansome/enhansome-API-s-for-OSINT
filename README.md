@@ -322,7 +322,7 @@ Thank you for following me! <https://cybdetective.com>
 | Blogger                        | <https://developers.google.com/blogger/>                              | The Blogger APIs allows client applications to view and update Blogger content                    | FREE  |
 | Disqus                         | <https://disqus.com/api/docs/auth/>                                   | Communicate with Disqus data                                                                      | FREE  |
 | Foursquare                     | <https://developer.foursquare.com/>                                   | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | FREE  |
-| HackerNews                     | <https://github.com/HackerNews/API> ⭐ 13,270 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           | FREE  |
+| HackerNews                     | <https://github.com/HackerNews/API> ⭐ 13,271 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           | FREE  |
 | Kakao                          | <https://developers.kakao.com/>                                       | Kakao Login, Share on KakaoTalk, Social Plugins and more                                          | FREE  |
 | Line                           | <https://developers.line.biz/>                                        | Line Login, Share on Line, Social Plugins and more                                                | FREE  |
 | TikTok                         | <https://developers.tiktok.com/doc/login-kit-web>                     | Fetches user info and user's video posts on TikTok platform                                       | FREE  |
@@ -334,7 +334,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name          | Link                                                                                                   | Description                                                                   | Price |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----- |
-| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,584 \| 🐛 152 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
+| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,585 \| 🐛 152 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
 | Google Trends | <https://github.com/suryasev/unofficial-google-trends-api> ⭐ 221 \| 🐛 7 \| 🌐 Python \| 📅 2020-04-11 | Unofficial Google Trends API                                                  | FREE  |
 | YouTube Music | <https://github.com/sigma67/ytmusicapi> ⭐ 2,957 \| 🐛 42 \| 🌐 Python \| 📅 2026-08-17                 | Unofficial APi for YouTube Music                                              | FREE  |
 | Duolingo      | <https://github.com/KartikTalwar/Duolingo> ⭐ 901 \| 🐛 40 \| 🌐 Python \| 📅 2024-04-12                | Duolingo unofficial API (can gather info about users)                         | FREE  |
@@ -484,7 +484,7 @@ Thank you for following me! <https://cybdetective.com>
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 469,551 \| 🐛 1,758 \| 🌐 Python \| 📅 2026-08-19 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 469,631 \| 🐛 1,759 \| 🌐 Python \| 📅 2026-08-19 |             |
 
 ## How to learn how to work with REST API?
 
