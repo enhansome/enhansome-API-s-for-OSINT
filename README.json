@@ -123,7 +123,7 @@
             "last_commit": "2026-08-22T05:33:02Z",
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 721
+            "stars": 722
           }
         }
       ],
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-24T02:11:31Z",
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6585
+            "stars": 6587
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-17T16:54:34Z",
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 2957
+            "stars": 2958
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2024-05-06T07:28:46Z",
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3299
+            "stars": 3300
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26799
+            "stars": 26801
           }
         },
         {
@@ -417,10 +417,10 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-24T05:57:38Z",
+            "last_commit": "2026-08-25T05:48:52Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15942
+            "stars": 15949
           }
         },
         {
@@ -524,7 +524,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 469631
+                "stars": 470005
               }
             }
           ],
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:36.520Z",
+    "last_updated": "2026-08-25T05:56:03.012Z",
     "original_repository": "cipher387/API-s-for-OSINT",
     "original_repository_id": 422519786,
     "original_repository_sha": "820435b653d5d2f7bc7fc16cfb9562ec2517e0aa",
