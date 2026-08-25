@@ -144,7 +144,7 @@
             "last_commit": "2026-08-24T02:11:31Z",
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6587
+            "stars": 6588
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-17T16:54:34Z",
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 2958
+            "stars": 2959
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-08-17T10:13:37Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26801
+            "stars": 26800
           }
         },
         {
@@ -417,10 +417,10 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-25T05:48:52Z",
+            "last_commit": "2026-08-25T08:07:00Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15949
+            "stars": 15952
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-07T07:14:53Z",
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6320
+            "stars": 6321
           }
         },
         {
@@ -524,7 +524,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 470005
+                "stars": 470163
               }
             }
           ],
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:03.012Z",
+    "last_updated": "2026-08-25T11:39:52.908Z",
     "original_repository": "cipher387/API-s-for-OSINT",
     "original_repository_id": 422519786,
     "original_repository_sha": "820435b653d5d2f7bc7fc16cfb9562ec2517e0aa",
