@@ -144,7 +144,7 @@
             "last_commit": "2026-08-24T02:11:31Z",
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6593
+            "stars": 6595
           }
         },
         {
@@ -171,10 +171,10 @@
             "archived": false,
             "id": 241472873,
             "language": "Python",
-            "last_commit": "2026-08-17T16:54:34Z",
+            "last_commit": "2026-08-27T19:16:08Z",
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 2962
+            "stars": 2964
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2024-05-06T07:28:46Z",
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3300
+            "stars": 3299
           }
         },
         {
@@ -231,10 +231,10 @@
             "archived": false,
             "id": 40484398,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:13:37Z",
+            "last_commit": "2026-08-27T13:01:43Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26805
+            "stars": 26802
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2023-12-30T00:34:32Z",
             "owner": "sskender",
             "repo": "pornhub-api",
-            "stars": 458
+            "stars": 457
           }
         },
         {
@@ -417,10 +417,10 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-27T05:57:08Z",
+            "last_commit": "2026-08-27T18:32:20Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15962
+            "stars": 15965
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2024-01-29T20:06:08Z",
             "owner": "sergiotapia",
             "repo": "torrentinim",
-            "stars": 824
+            "stars": 825
           }
         }
       ],
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-07T07:14:53Z",
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6321
+            "stars": 6323
           }
         },
         {
@@ -524,7 +524,7 @@
                 "last_commit": "2026-08-26T19:19:56Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 471364
+                "stars": 471664
               }
             }
           ],
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:45.256Z",
+    "last_updated": "2026-08-27T21:00:19.984Z",
     "original_repository_info": {
       "archived": false,
       "id": 422519786,

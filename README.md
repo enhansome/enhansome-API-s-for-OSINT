@@ -322,7 +322,7 @@ Thank you for following me! <https://cybdetective.com>
 | Blogger                        | <https://developers.google.com/blogger/>                              | The Blogger APIs allows client applications to view and update Blogger content                    | FREE  |
 | Disqus                         | <https://disqus.com/api/docs/auth/>                                   | Communicate with Disqus data                                                                      | FREE  |
 | Foursquare                     | <https://developer.foursquare.com/>                                   | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | FREE  |
-| HackerNews                     | <https://github.com/HackerNews/API> ⭐ 13,278 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           | FREE  |
+| HackerNews                     | <https://github.com/HackerNews/API> ⭐ 13,279 \| 🐛 5 \| 📅 2025-01-01 | Social news for CS and entrepreneurship                                                           | FREE  |
 | Kakao                          | <https://developers.kakao.com/>                                       | Kakao Login, Share on KakaoTalk, Social Plugins and more                                          | FREE  |
 | Line                           | <https://developers.line.biz/>                                        | Line Login, Share on Line, Social Plugins and more                                                | FREE  |
 | TikTok                         | <https://developers.tiktok.com/doc/login-kit-web>                     | Fetches user info and user's video posts on TikTok platform                                       | FREE  |
@@ -334,17 +334,17 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name          | Link                                                                                                   | Description                                                                   | Price |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----- |
-| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,593 \| 🐛 152 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
+| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,595 \| 🐛 152 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
 | Google Trends | <https://github.com/suryasev/unofficial-google-trends-api> ⭐ 221 \| 🐛 7 \| 🌐 Python \| 📅 2020-04-11 | Unofficial Google Trends API                                                  | FREE  |
-| YouTube Music | <https://github.com/sigma67/ytmusicapi> ⭐ 2,962 \| 🐛 43 \| 🌐 Python \| 📅 2026-08-17                 | Unofficial APi for YouTube Music                                              | FREE  |
+| YouTube Music | <https://github.com/sigma67/ytmusicapi> ⭐ 2,964 \| 🐛 42 \| 🌐 Python \| 📅 2026-08-27                 | Unofficial APi for YouTube Music                                              | FREE  |
 | Duolingo      | <https://github.com/KartikTalwar/Duolingo> ⭐ 901 \| 🐛 40 \| 🌐 Python \| 📅 2024-04-12                | Duolingo unofficial API (can gather info about users)                         | FREE  |
 | Steam.        | <https://github.com/smiley/steamapi> ⚠️ Archived                                                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
-| Instagram     | <https://github.com/ping/instagram_private_api> ⭐ 3,300 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                         | FREE  |
-| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,805 \| 🐛 158 \| 🌐 TypeScript \| 📅 2026-08-17         | JavaScript library for interacting with the Discord API                       | FREE  |
+| Instagram     | <https://github.com/ping/instagram_private_api> ⭐ 3,299 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                         | FREE  |
+| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,802 \| 🐛 157 \| 🌐 TypeScript \| 📅 2026-08-27         | JavaScript library for interacting with the Discord API                       | FREE  |
 | Zhihu         | <https://github.com/syaning/zhihu-api> ⚠️ Archived                                                     | FREE Unofficial API for Zhihu                                                 | FREE  |
 | Quora         | <https://github.com/csu/quora-api> ⭐ 306 \| 🐛 15 \| 🌐 Python \| 📅 2016-10-09                        | Unofficial API for Quora                                                      | FREE  |
 | DnsDumbster   | <https://github.com/PaulSec/API-dnsdumpster.com> ⭐ 283 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25           | (Unofficial) Python API for DnsDumbster                                       | FREE  |
-| PornHub       | <https://github.com/sskender/pornhub-api> ⭐ 458 \| 🐛 7 \| 🌐 Python \| 📅 2023-12-30                  | Unofficial API for PornHub in Python                                          | FREE  |
+| PornHub       | <https://github.com/sskender/pornhub-api> ⭐ 457 \| 🐛 7 \| 🌐 Python \| 📅 2023-12-30                  | Unofficial API for PornHub in Python                                          | FREE  |
 | Skype         | <https://github.com/ShyykoSerhiy/skyweb> ⭐ 196 \| 🐛 36 \| 🌐 TypeScript \| 📅 2021-12-17              | Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol.                  | FREE  |
 | Google Search | <https://github.com/aviaryan/python-gsearch> ⭐ 220 \| 🐛 10 \| 🌐 Python \| 📅 2021-02-06              | Google Search unofficial API for Python with no external dependencies         | FREE  |
 | Airbnb        | <https://github.com/nderkach/airbnb-python> ⭐ 203 \| 🐛 16 \| 🌐 Python \| 📅 2022-12-08               | Python wrapper around the Airbnb API (unofficial)                             | FREE  |
@@ -386,11 +386,11 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name               | Link                                                                                                                        | Description                                                                                                                                                         | Price                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 15,962 \| 🐛 206 \| 🌐 C# \| 📅 2026-08-27                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
+| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 15,965 \| 🐛 205 \| 🌐 C# \| 📅 2026-08-27                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
 | Torrents API PY    | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) ⭐ 422 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-17 | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre     | FREE                 |
 | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/)                                  | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt                                                                                            | 500 queries/day FREE |
 | Torrent search api | <https://github.com/JimmyLaurent/torrent-search-api> ⭐ 456 \| 🐛 21 \| 🌐 HTML \| 📅 2024-08-12                             | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE                 |
-| Torrentinim        | <https://github.com/sergiotapia/torrentinim> ⭐ 824 \| 🐛 9 \| 🌐 Nim \| 📅 2024-01-29                                       | Very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.                       | FREE                 |
+| Torrentinim        | <https://github.com/sergiotapia/torrentinim> ⭐ 825 \| 🐛 9 \| 🌐 Nim \| 📅 2024-01-29                                       | Very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.                       | FREE                 |
 
 ## Vulnerabilities
 
@@ -467,7 +467,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name             | Link                                                                           | Description                                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Keyhacks         | <https://github.com/streaak/keyhacks> ⭐ 6,321 \| 🐛 45 \| 📅 2026-08-07        | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. |
+| Keyhacks         | <https://github.com/streaak/keyhacks> ⭐ 6,323 \| 🐛 45 \| 📅 2026-08-07        | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. |
 | All about APIKey | <https://github.com/daffainfo/all-about-apikey> ⭐ 300 \| 🐛 1 \| 📅 2023-09-26 | Detailed information about API key / OAuth token for different services (Description, Request, Response, Regex, Example)                 |
 | API Guessr       | <https://api-guesser.netlify.app/>                                             | Enter API Key and and find out which service they belong to                                                                              |
 
@@ -484,7 +484,7 @@ Thank you for following me! <https://cybdetective.com>
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 471,364 \| 🐛 1,788 \| 🌐 Python \| 📅 2026-08-26 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 471,664 \| 🐛 1,792 \| 🌐 Python \| 📅 2026-08-26 |             |
 
 ## How to learn how to work with REST API?
 
