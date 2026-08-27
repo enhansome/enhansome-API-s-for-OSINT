@@ -93,7 +93,7 @@
             "last_commit": "2024-11-16T17:25:29Z",
             "owner": "SOME-1HING",
             "repo": "google-reverse-image-api",
-            "stars": 130
+            "stars": 132
           }
         },
         {
@@ -120,10 +120,10 @@
             "archived": false,
             "id": 302907175,
             "language": "Python",
-            "last_commit": "2026-08-22T05:33:02Z",
+            "last_commit": "2026-08-26T18:02:41Z",
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 721
+            "stars": 722
           }
         }
       ],
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-24T02:11:31Z",
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6591
+            "stars": 6593
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2024-05-06T07:28:46Z",
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3298
+            "stars": 3300
           }
         },
         {
@@ -417,10 +417,10 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-26T06:06:15Z",
+            "last_commit": "2026-08-27T05:57:08Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15957
+            "stars": 15962
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2025-02-17T16:30:57Z",
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
-            "stars": 423
+            "stars": 422
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-07T07:14:53Z",
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6322
+            "stars": 6321
           }
         },
         {
@@ -521,10 +521,10 @@
                 "archived": false,
                 "id": 54346799,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:11:55Z",
+                "last_commit": "2026-08-26T19:19:56Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 470750
+                "stars": 471364
               }
             }
           ],
@@ -558,9 +558,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:42:10.065Z",
-    "original_repository": "cipher387/API-s-for-OSINT",
-    "original_repository_id": 422519786,
+    "last_updated": "2026-08-27T11:19:45.256Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 422519786,
+      "language": null,
+      "last_commit": "2026-08-05T09:57:16Z",
+      "owner": "cipher387",
+      "repo": "API-s-for-OSINT",
+      "stars": 2508
+    },
     "original_repository_sha": "820435b653d5d2f7bc7fc16cfb9562ec2517e0aa",
     "enhanced_repository": "enhansome/enhansome-API-s-for-OSINT",
     "enhanced_repository_description": null,
