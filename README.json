@@ -16,7 +16,8 @@
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "IOT/IP Search engines"
@@ -37,7 +38,8 @@
             "owner": "SocialLinks-IO",
             "repo": "sociallinks-api",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "Universal OSINT APIs"
@@ -58,7 +60,8 @@
             "owner": "davidonzo",
             "repo": "apiosintDS",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "fawazahmed0",
             "repo": "cloudflare-trace-api",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "Domain/DNS/IP lookup"
@@ -94,7 +98,8 @@
             "owner": "SOME-1HING",
             "repo": "google-reverse-image-api",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "vivithemage",
             "repo": "mrisa",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -123,8 +129,9 @@
             "last_commit": "2026-08-26T18:02:41Z",
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 722
-          }
+            "stars": 723
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "Reverse Image Search"
@@ -144,8 +151,9 @@
             "last_commit": "2026-08-24T02:11:31Z",
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6595
-          }
+            "stars": 6599
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
             "owner": "suryasev",
             "repo": "unofficial-google-trends-api",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -174,8 +183,9 @@
             "last_commit": "2026-08-27T19:16:08Z",
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 2964
-          }
+            "stars": 2969
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -190,7 +200,8 @@
             "owner": "KartikTalwar",
             "repo": "Duolingo",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -205,7 +216,8 @@
             "owner": "smiley",
             "repo": "steamapi",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -220,7 +232,8 @@
             "owner": "ping",
             "repo": "instagram_private_api",
             "stars": 3299
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -234,8 +247,9 @@
             "last_commit": "2026-08-27T13:01:43Z",
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26802
-          }
+            "stars": 26803
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "syaning",
             "repo": "zhihu-api",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "csu",
             "repo": "quora-api",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "PaulSec",
             "repo": "API-dnsdumpster.com",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "sskender",
             "repo": "pornhub-api",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "ShyykoSerhiy",
             "repo": "skyweb",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "aviaryan",
             "repo": "python-gsearch",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "nderkach",
             "repo": "airbnb-python",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "enginebai",
             "repo": "PyMedium",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "davidyen1124",
             "repo": "Facebot",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "Simatwa",
             "repo": "y2mate-api",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "Simatwa",
             "repo": "livescore-api",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "UNOFFICIAL APIs"
@@ -417,11 +442,12 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-27T18:32:20Z",
+            "last_commit": "2026-08-28T19:06:32Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15965
-          }
+            "stars": 15971
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "JimmyLaurent",
             "repo": "torrent-search-api",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -465,8 +493,9 @@
             "last_commit": "2024-01-29T20:06:08Z",
             "owner": "sergiotapia",
             "repo": "torrentinim",
-            "stars": 825
-          }
+            "stars": 828
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "Torrents/file sharing"
@@ -486,8 +515,9 @@
             "last_commit": "2026-08-07T07:14:53Z",
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6323
-          }
+            "stars": 6324
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         },
         {
           "node_type": "item",
@@ -502,7 +532,8 @@
             "owner": "daffainfo",
             "repo": "all-about-apikey",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "API Keys Info"
@@ -524,8 +555,9 @@
                 "last_commit": "2026-08-26T19:19:56Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 471664
-              }
+                "stars": 472288
+              },
+              "first_seen": "2026-08-28T21:21:07.659Z"
             }
           ],
           "description": null,
@@ -551,14 +583,15 @@
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
             "stars": 888
-          }
+          },
+          "first_seen": "2026-08-28T21:21:07.659Z"
         }
       ],
       "title": "How to learn how to work with REST API?"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:00:19.984Z",
+    "last_updated": "2026-08-28T21:21:07.659Z",
     "original_repository_info": {
       "archived": false,
       "id": 422519786,
@@ -566,7 +599,7 @@
       "last_commit": "2026-08-05T09:57:16Z",
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2508
+      "stars": 2512
     },
     "original_repository_sha": "820435b653d5d2f7bc7fc16cfb9562ec2517e0aa",
     "enhanced_repository": "enhansome/enhansome-API-s-for-OSINT",
