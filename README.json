@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.",
+            "homepage": null,
             "id": 703597759,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-06-27T07:54:56Z",
+            "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bugbounty",
+              "cybersecurity",
+              "osint",
+              "pentest"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -32,12 +44,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Social Links API: description, examples, trial access",
+            "homepage": "https://sl-api-docs.readthedocs.io/",
             "id": 859187008,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-15T14:40:22Z",
+            "open_issues": 1,
             "owner": "SocialLinks-IO",
             "repo": "sociallinks-api",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "api",
+              "api-rest",
+              "osint",
+              "osint-api",
+              "osint-framework",
+              "osint-tool",
+              "osint-tools"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -54,12 +79,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On demand query API for https://github.com/davidonzo/Threat-Intel project.",
+            "homepage": "https://apiosintds.readthedocs.io/",
             "id": 214855158,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-13T17:55:49Z",
+            "open_issues": 0,
             "owner": "davidonzo",
             "repo": "apiosintDS",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "api",
+              "cybersecurity",
+              "incident-response",
+              "ioc",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -70,12 +106,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare",
+            "homepage": "https://one.one.one.one/cdn-cgi/trace",
             "id": 383330341,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-20T20:18:33Z",
+            "open_issues": 4,
             "owner": "fawazahmed0",
             "repo": "cloudflare-trace-api",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "cloudflare-api",
+              "country",
+              "epoch-time",
+              "geolocation",
+              "ipaddress",
+              "timestamp",
+              "useragent"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -92,12 +141,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a simple API built using Node.js and Express.js that allows you to perform Google Reverse Image Search by providing an image URL. The API uses Cheerio to scrap Google's image search engine's html to get result text and similar images url.",
+            "homepage": "https://google-reverse-image-api.vercel.app",
             "id": 634995453,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-16T17:25:29Z",
+            "open_issues": 1,
             "owner": "SOME-1HING",
             "repo": "google-reverse-image-api",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "google",
+              "google-api",
+              "google-image-search",
+              "google-lens",
+              "google-reverse-image",
+              "google-reverse-image-crawler",
+              "google-reverse-image-scraper",
+              "google-reverse-image-search",
+              "google-search-api",
+              "image-search",
+              "image-search-engine",
+              "requests",
+              "reverse-image-search",
+              "reverse-search-image",
+              "reverse-search-images",
+              "search-by-google",
+              "search-by-image",
+              "similarity-search"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -108,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MRISA - Meta reverse image search api",
+            "homepage": "http://mrisa.mage.me.uk/",
             "id": 17670174,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2022-12-08T02:15:55Z",
+            "open_issues": 11,
             "owner": "vivithemage",
             "repo": "mrisa",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -124,12 +202,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "整合图片识别 API，用于以图搜源 / Aggregator for Reverse Image Search API",
+            "homepage": "https://pic-image-search.kituin.fun/",
             "id": 302907175,
             "language": "Python",
-            "last_commit": "2026-08-26T18:02:41Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:02:16Z",
+            "open_issues": 6,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 723
+            "stars": 723,
+            "topics": [
+              "ascii2d",
+              "baidu",
+              "bing",
+              "copyseeker",
+              "e-hentai",
+              "exhentai",
+              "google",
+              "iqdb",
+              "saucenao",
+              "tracemoe",
+              "yandex"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -146,12 +241,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Unofficial TikTok API Wrapper In Python",
+            "homepage": "https://davidteather.github.io/TikTok-Api",
             "id": 188710490,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:11:31Z",
+            "open_issues": 152,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6599
+            "stars": 6599,
+            "topics": [
+              "api",
+              "download-tiktoks",
+              "hacktoberfest",
+              "python",
+              "tik",
+              "tiktok",
+              "tiktok-api",
+              "tiktok-automation",
+              "tiktok-compilations",
+              "tiktok-downloader",
+              "tiktok-python",
+              "tiktok-scraper",
+              "tiktok-signature",
+              "tiktok-trending-page",
+              "tiktokapi",
+              "tok",
+              "trending"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -162,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python-based API that uses the http site to download Google Trends data",
+            "homepage": "http://www.juiceanalytics.com/openjuice/programmatic-google-trends-api/",
             "id": 117576,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-11T07:43:39Z",
+            "open_issues": 7,
             "owner": "suryasev",
             "repo": "unofficial-google-trends-api",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -178,12 +301,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial API for YouTube Music",
+            "homepage": "https://ytmusicapi.readthedocs.io",
             "id": 241472873,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:16:08Z",
+            "open_issues": 42,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 2969
+            "stars": 2969,
+            "topics": [
+              "youtube",
+              "youtube-api",
+              "youtube-music",
+              "youtube-music-api",
+              "ytmusicapi"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -194,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Duolingo API Written in Python",
+            "homepage": null,
             "id": 11143712,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-12T09:21:32Z",
+            "open_issues": 40,
             "owner": "KartikTalwar",
             "repo": "Duolingo",
-            "stars": 901
+            "stars": 901,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -210,12 +349,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An unofficial object-oriented Python library for accessing the Steam Web API.",
+            "homepage": null,
             "id": 12645780,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-19T13:20:40Z",
+            "open_issues": 9,
             "owner": "smiley",
             "repo": "steamapi",
-            "stars": 460
+            "stars": 460,
+            "topics": [
+              "python",
+              "rest",
+              "rest-api",
+              "steam",
+              "steamapi"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -226,12 +376,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library to access Instagram's private API.",
+            "homepage": null,
             "id": 78740778,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-06T07:28:46Z",
+            "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3299
+            "stars": 3299,
+            "topics": [
+              "instagram",
+              "instagram-api"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -242,12 +400,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful JavaScript library for interacting with the Discord API",
+            "homepage": "https://discord.js.org",
             "id": 40484398,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T13:01:43Z",
+            "open_issues": 159,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26803
+            "stars": 26804,
+            "topics": [
+              "bot",
+              "discord",
+              "discord-api",
+              "discord-bot",
+              "discord-server",
+              "discordjs",
+              "hacktoberfest",
+              "nodejs",
+              "voice-support"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -258,12 +431,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Unofficial API for zhihu.",
+            "homepage": "https://syaning.github.io/zhihu-api/",
             "id": 53657424,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-16T08:09:15Z",
+            "open_issues": 0,
             "owner": "syaning",
             "repo": "zhihu-api",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "zhihu",
+              "zhihu-api"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -274,12 +455,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial API for Quora.",
+            "homepage": null,
             "id": 22199035,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2016-10-09T22:15:34Z",
+            "open_issues": 15,
             "owner": "csu",
             "repo": "quora-api",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "api",
+              "flask",
+              "python",
+              "quora",
+              "quora-api",
+              "rest-api",
+              "web-api",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -290,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Unofficial) Python API for https://dnsdumpster.com/",
+            "homepage": null,
             "id": 35279288,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-25T17:57:21Z",
+            "open_issues": 1,
             "owner": "PaulSec",
             "repo": "API-dnsdumpster.com",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -306,12 +506,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial API for PornHub.com in Python",
+            "homepage": null,
             "id": 77469412,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-30T00:34:32Z",
+            "open_issues": 7,
             "owner": "sskender",
             "repo": "pornhub-api",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "api",
+              "beautifulsoup",
+              "beautifulsoup4",
+              "parser",
+              "pip",
+              "pip3",
+              "porn",
+              "porn-download",
+              "porn-website",
+              "pornhub",
+              "pornhub-api",
+              "pornhub-downloader",
+              "pornhubapi",
+              "porno",
+              "pornography",
+              "proxy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -322,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol.",
+            "homepage": null,
             "id": 42061358,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-12-17T06:26:40Z",
+            "open_issues": 36,
             "owner": "ShyykoSerhiy",
             "repo": "skyweb",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -338,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 Google Search unofficial API for Python with no external dependencies",
+            "homepage": null,
             "id": 102576091,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-06T18:56:28Z",
+            "open_issues": 10,
             "owner": "aviaryan",
             "repo": "python-gsearch",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -354,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python wrapper around the Airbnb API (unofficial)",
+            "homepage": null,
             "id": 28683670,
             "language": "Python",
+            "license": "WTFPL",
             "last_commit": "2022-12-08T05:46:08Z",
+            "open_issues": 16,
             "owner": "nderkach",
             "repo": "airbnb-python",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -370,12 +608,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Medium Python Flask API and SDK",
+            "homepage": null,
             "id": 75353286,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-19T22:51:31Z",
+            "open_issues": 8,
             "owner": "enginebai",
             "repo": "PyMedium",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "api",
+              "flask",
+              "medium",
+              "python",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -386,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Powerful unofficial facebook api",
+            "homepage": null,
             "id": 27159399,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-22T21:33:23Z",
+            "open_issues": 7,
             "owner": "davidyen1124",
             "repo": "Facebot",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -402,12 +656,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Download YouTube videos  in mp4 and mp3 formats by specifying title/id/url",
+            "homepage": null,
             "id": 654301988,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-17T15:21:29Z",
+            "open_issues": 0,
             "owner": "Simatwa",
             "repo": "y2mate-api",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "y2mate",
+              "youtube",
+              "youtube-api",
+              "youtube-api-v3",
+              "youtube-dl",
+              "youtube-downloader"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -418,12 +684,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access and manipulate soccer data from livescore.com",
+            "homepage": null,
             "id": 652586223,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-25T11:37:56Z",
+            "open_issues": 0,
             "owner": "Simatwa",
             "repo": "livescore-api",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "football-api",
+              "football-data",
+              "livescore",
+              "livescore-api",
+              "livescore-cli",
+              "soccer"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -440,12 +718,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API Support for your favorite torrent trackers",
+            "homepage": null,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-28T19:06:32Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T04:02:19Z",
+            "open_issues": 208,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15971
+            "stars": 15970,
+            "topics": [
+              "api",
+              "couchpotato",
+              "duckietv",
+              "hacktoberfest",
+              "indexer",
+              "jackett",
+              "lidarr",
+              "medusa",
+              "mylar3",
+              "nefarious",
+              "newznab",
+              "proxy",
+              "radarr",
+              "rss",
+              "rss-proxy",
+              "sickrage",
+              "sonarr",
+              "torrent",
+              "torznab",
+              "trackers"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -456,12 +760,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, TorrentProject and YourBittorrent",
+            "homepage": "https://torrent-api-py-nx0x.onrender.com/docs",
             "id": 452843576,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-17T16:30:57Z",
+            "open_issues": 9,
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "1337x-api",
+              "bitsearch-api",
+              "glodls-api",
+              "kickass-api",
+              "libgen-api",
+              "limetorrents",
+              "magnetdl-api",
+              "nyaasi-api",
+              "piratebay-api",
+              "scraping",
+              "torlock-api",
+              "torrent-api",
+              "torrent-galaxy",
+              "torrentfunk",
+              "torrentproject",
+              "torrents",
+              "yts-api",
+              "zooqle-api"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -472,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents)",
+            "homepage": null,
             "id": 80303589,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-08-12T08:10:40Z",
+            "open_issues": 21,
             "owner": "JimmyLaurent",
             "repo": "torrent-search-api",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -488,12 +821,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support for Linux, Mac and Windows.",
+            "homepage": null,
             "id": 229501494,
             "language": "Nim",
+            "license": "MIT",
             "last_commit": "2024-01-29T20:06:08Z",
+            "open_issues": 9,
             "owner": "sergiotapia",
             "repo": "torrentinim",
-            "stars": 828
+            "stars": 828,
+            "topics": [
+              "bittorrent",
+              "p2p",
+              "radarr",
+              "search-engine",
+              "self-hosted",
+              "sonarr",
+              "torrent",
+              "torrent-search-engine"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -510,12 +857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.",
+            "homepage": null,
             "id": 175193664,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-07T07:14:53Z",
+            "open_issues": 45,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6324
+            "stars": 6324,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         },
@@ -526,12 +878,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detailed information about API key / OAuth token (Description, Request, Response, Regex, Example)",
+            "homepage": "https://api-guesser.netlify.app",
             "id": 396577771,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-09-26T23:32:59Z",
+            "open_issues": 1,
             "owner": "daffainfo",
             "repo": "all-about-apikey",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "api",
+              "apikey",
+              "bugbounty",
+              "hacktoberfest",
+              "pentest"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -550,12 +913,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collective list of free APIs",
+                "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
                 "id": 54346799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:19:56Z",
+                "open_issues": 1809,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 472288
+                "stars": 472419,
+                "topics": [
+                  "api",
+                  "apis",
+                  "dataset",
+                  "development",
+                  "free",
+                  "list",
+                  "lists",
+                  "open-source",
+                  "public",
+                  "public-api",
+                  "public-apis",
+                  "resources",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T21:21:07.659Z"
             }
@@ -577,12 +959,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.",
+            "homepage": null,
             "id": 703597759,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2025-06-27T07:54:56Z",
+            "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bugbounty",
+              "cybersecurity",
+              "osint",
+              "pentest"
+            ]
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
         }
@@ -591,15 +985,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:07.659Z",
+    "last_updated": "2026-08-29T04:22:08.821Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
+      "homepage": "https://cybdetective.com",
       "id": 422519786,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-05T09:57:16Z",
+      "open_issues": 19,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2512
+      "stars": 2512,
+      "topics": [
+        "api",
+        "api-rest",
+        "awesome",
+        "awesome-list",
+        "cybersecurity",
+        "information-gathering",
+        "osint"
+      ]
     },
     "original_repository_sha": "820435b653d5d2f7bc7fc16cfb9562ec2517e0aa",
     "enhanced_repository": "enhansome/enhansome-API-s-for-OSINT",

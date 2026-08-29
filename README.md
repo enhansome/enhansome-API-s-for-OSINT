@@ -292,7 +292,7 @@ Thank you for following me! <https://cybdetective.com>
 | TinEyeAPI                        | <https://services.tineye.com/TinEyeAPI>                                                                   | Verify images, Moderate user-generated content, Track images and brands, Check copyright compliance, Deploy fraud detection solutions, Identify stock photos, Confirm the uniqueness of an image | Start from $200/5000 searches      |
 | Bing Images Search API           | <https://www.microsoft.com/en-us/bing/apis/bing-image-search-api>                                         | With Bing Image Search API v7, help users scour the web for images. Results include thumbnails, full image URLs, publishing website info, image metadata, and more.                              | 1,000 requests free per month FREE |
 | MRISA                            | <https://github.com/vivithemage/mrisa> ⭐ 271 \| 🐛 11 \| 🌐 Python \| 📅 2022-12-08                       | MRISA (Meta Reverse Image Search API) is a RESTful API which takes an image URL, does a reverse Google image search, and returns a JSON array with the search results                            | FREE? (no official)                |
-| PicImageSearch                   | <https://github.com/kitUIN/PicImageSearch> ⭐ 723 \| 🐛 5 \| 🌐 Python \| 📅 2026-08-26                    | Aggregator for different Reverse Image Search API                                                                                                                                                | FREE? (no official)                |
+| PicImageSearch                   | <https://github.com/kitUIN/PicImageSearch> ⭐ 723 \| 🐛 6 \| 🌐 Python \| 📅 2026-08-29                    | Aggregator for different Reverse Image Search API                                                                                                                                                | FREE? (no official)                |
 
 ## AI Geolocation
 
@@ -340,7 +340,7 @@ Thank you for following me! <https://cybdetective.com>
 | Duolingo      | <https://github.com/KartikTalwar/Duolingo> ⭐ 901 \| 🐛 40 \| 🌐 Python \| 📅 2024-04-12                | Duolingo unofficial API (can gather info about users)                         | FREE  |
 | Steam.        | <https://github.com/smiley/steamapi> ⚠️ Archived                                                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
 | Instagram     | <https://github.com/ping/instagram_private_api> ⭐ 3,299 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                         | FREE  |
-| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,803 \| 🐛 159 \| 🌐 TypeScript \| 📅 2026-08-27         | JavaScript library for interacting with the Discord API                       | FREE  |
+| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,804 \| 🐛 159 \| 🌐 TypeScript \| 📅 2026-08-27         | JavaScript library for interacting with the Discord API                       | FREE  |
 | Zhihu         | <https://github.com/syaning/zhihu-api> ⚠️ Archived                                                     | FREE Unofficial API for Zhihu                                                 | FREE  |
 | Quora         | <https://github.com/csu/quora-api> ⭐ 306 \| 🐛 15 \| 🌐 Python \| 📅 2016-10-09                        | Unofficial API for Quora                                                      | FREE  |
 | DnsDumbster   | <https://github.com/PaulSec/API-dnsdumpster.com> ⭐ 283 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25           | (Unofficial) Python API for DnsDumbster                                       | FREE  |
@@ -386,7 +386,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name               | Link                                                                                                                        | Description                                                                                                                                                         | Price                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 15,971 \| 🐛 211 \| 🌐 C# \| 📅 2026-08-28                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
+| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 15,970 \| 🐛 208 \| 🌐 C# \| 📅 2026-08-29                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
 | Torrents API PY    | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) ⭐ 422 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-17 | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre     | FREE                 |
 | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/)                                  | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt                                                                                            | 500 queries/day FREE |
 | Torrent search api | <https://github.com/JimmyLaurent/torrent-search-api> ⭐ 456 \| 🐛 21 \| 🌐 HTML \| 📅 2024-08-12                             | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE                 |
@@ -484,7 +484,7 @@ Thank you for following me! <https://cybdetective.com>
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 472,288 \| 🐛 1,806 \| 🌐 Python \| 📅 2026-08-26 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 472,419 \| 🐛 1,809 \| 🌐 Python \| 📅 2026-08-26 |             |
 
 ## How to learn how to work with REST API?
 
@@ -508,4 +508,4 @@ This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
