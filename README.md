@@ -73,7 +73,7 @@ Thank you for following me! <https://cybdetective.com>
 | Name        | Link                                                   | Description                                                                                                                                                                     | Price          |
 | ----------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | Shodan      | <https://developer.shodan.io>                          | Search engine for Internet connected host and devices                                                                                                                           | from $59/month |
-| Netlas.io   | <https://netlas-api.readthedocs.io/en/latest/>         | Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook) ⭐ 888 \| 🐛 0 \| 🌐 Python \| 📅 2025-06-27 | Partly FREE    |
+| Netlas.io   | <https://netlas-api.readthedocs.io/en/latest/>         | Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook) ⭐ 889 \| 🐛 0 \| 🌐 Python \| 📅 2025-06-27 | Partly FREE    |
 | Fofa.so     | <https://fofa.so/static_pages/api_help>                | Search engine for Internet connected host and devices                                                                                                                           | ???            |
 | Censys.io   | <https://censys.io/api>                                | Search engine for Internet connected host and devices                                                                                                                           | Partly FREE    |
 | Hunter.how  | <https://hunter.how/search-api>                        | Search engine for Internet connected host and devices                                                                                                                           | Partly FREE    |
@@ -234,7 +234,7 @@ Thank you for following me! <https://cybdetective.com>
 | TROVE (Australian Web Archive) API                                               | <https://trove.nla.gov.au/about/create-something/using-api>                                                          | Retrieve information about TROVE capture data                                                                                                                                                    | FREE  |
 | Archive-it API                                                                   | <https://support.archive-it.org/hc/en-us/articles/115001790023-Access-Archive-It-s-Wayback-index-with-the-CDX-C-API> | Retrieve information about archive-it capture data                                                                                                                                               | FREE  |
 | UK Web Archive API                                                               | <https://ukwa-manage.readthedocs.io/en/latest/#api-reference>                                                        | Retrieve information about UK Web Archive capture data                                                                                                                                           | FREE  |
-| Arquivo.pt API                                                                   | <https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API> ⭐ 52 \| 🐛 160 \| 📅 2026-09-04                    | Allows full-text search and access preserved web content and related metadata. It is also possible to search by URL, accessing all versions of preserved web content. API returns a JSON object. | FREE  |
+| Arquivo.pt API                                                                   | <https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API> ⭐ 52 \| 🐛 158 \| 📅 2026-09-04                    | Allows full-text search and access preserved web content and related metadata. It is also possible to search by URL, accessing all versions of preserved web content. API returns a JSON object. | FREE  |
 | Library Of Congress archive API                                                  | <https://www.loc.gov/apis/>                                                                                          | Provides structured data about Library of Congress collections                                                                                                                                   | FREE  |
 | BotsArchive                                                                      | <https://botsarchive.com/docs.html>                                                                                  | JSON formatted details about Telegram Bots available in database                                                                                                                                 | FREE  |
 
@@ -334,13 +334,13 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name          | Link                                                                                                   | Description                                                                   | Price |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----- |
-| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,619 \| 🐛 153 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
+| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,620 \| 🐛 153 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
 | Google Trends | <https://github.com/suryasev/unofficial-google-trends-api> ⭐ 221 \| 🐛 7 \| 🌐 Python \| 📅 2020-04-11 | Unofficial Google Trends API                                                  | FREE  |
 | YouTube Music | <https://github.com/sigma67/ytmusicapi> ⭐ 2,996 \| 🐛 46 \| 🌐 Python \| 📅 2026-09-01                 | Unofficial APi for YouTube Music                                              | FREE  |
 | Duolingo      | <https://github.com/KartikTalwar/Duolingo> ⭐ 905 \| 🐛 40 \| 🌐 Python \| 📅 2024-04-12                | Duolingo unofficial API (can gather info about users)                         | FREE  |
 | Steam.        | <https://github.com/smiley/steamapi> ⚠️ Archived                                                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
 | Instagram     | <https://github.com/ping/instagram_private_api> ⭐ 3,303 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                         | FREE  |
-| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,813 \| 🐛 157 \| 🌐 TypeScript \| 📅 2026-09-07         | JavaScript library for interacting with the Discord API                       | FREE  |
+| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,813 \| 🐛 157 \| 🌐 TypeScript \| 📅 2026-09-08         | JavaScript library for interacting with the Discord API                       | FREE  |
 | Zhihu         | <https://github.com/syaning/zhihu-api> ⚠️ Archived                                                     | FREE Unofficial API for Zhihu                                                 | FREE  |
 | Quora         | <https://github.com/csu/quora-api> ⭐ 306 \| 🐛 15 \| 🌐 Python \| 📅 2016-10-09                        | Unofficial API for Quora                                                      | FREE  |
 | DnsDumbster   | <https://github.com/PaulSec/API-dnsdumpster.com> ⭐ 283 \| 🐛 1 \| 🌐 Python \| 📅 2026-03-25           | (Unofficial) Python API for DnsDumbster                                       | FREE  |
@@ -386,7 +386,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name               | Link                                                                                                                        | Description                                                                                                                                                         | Price                |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 16,013 \| 🐛 208 \| 🌐 C# \| 📅 2026-09-07                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
+| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 16,013 \| 🐛 209 \| 🌐 C# \| 📅 2026-09-09                                           | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
 | Torrents API PY    | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) ⭐ 424 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-17 | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre     | FREE                 |
 | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/)                                  | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt                                                                                            | 500 queries/day FREE |
 | Torrent search api | <https://github.com/JimmyLaurent/torrent-search-api> ⭐ 456 \| 🐛 21 \| 🌐 HTML \| 📅 2024-08-12                             | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE                 |
@@ -484,13 +484,13 @@ Thank you for following me! <https://cybdetective.com>
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 477,409 \| 🐛 1,912 \| 🌐 Python \| 📅 2026-09-05 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 477,960 \| 🐛 1,931 \| 🌐 Python \| 📅 2026-09-08 |             |
 
 ## How to learn how to work with REST API?
 
 If you don't know how to work with the REST API, I recommend you check out the Netlas API guide I wrote for Netlas.io.
 
-[Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 888 | 🐛 0 | 🌐 Python | 📅 2025-06-27
+[Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 889 | 🐛 0 | 🌐 Python | 📅 2025-06-27
 
 There it is very brief and accessible to write how to automate requests in different programming languages (focus on Python and Bash) and process the resulting JSON data.
 
@@ -508,4 +508,4 @@ This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
