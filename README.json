@@ -15,7 +15,7 @@
             "id": 703597759,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2025-06-27T07:54:56Z",
+            "last_commit": "2026-09-18T10:32:49Z",
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
@@ -250,7 +250,7 @@
             "open_issues": 152,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6628,
+            "stars": 6629,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 43,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3014,
+            "stars": 3018,
             "topics": [
               "youtube",
               "youtube-api",
@@ -385,7 +385,7 @@
             "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3307,
+            "stars": 3308,
             "topics": [
               "instagram",
               "instagram-api"
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T13:45:58Z",
+            "last_commit": "2026-09-18T10:46:02Z",
             "open_issues": 165,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26823,
+            "stars": 26824,
             "topics": [
               "bot",
               "discord",
@@ -491,7 +491,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-03-25T17:57:21Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "PaulSec",
             "repo": "API-dnsdumpster.com",
             "stars": 283,
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-17T05:55:41Z",
-            "open_issues": 216,
+            "last_commit": "2026-09-18T05:58:20Z",
+            "open_issues": 215,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16049,
+            "stars": 16050,
             "topics": [
               "api",
               "couchpotato",
@@ -766,7 +766,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-02-17T16:30:57Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
             "stars": 425,
@@ -809,7 +809,7 @@
             "open_issues": 21,
             "owner": "JimmyLaurent",
             "repo": "torrent-search-api",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -866,7 +866,7 @@
             "open_issues": 45,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6339,
+            "stars": 6342,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-17T13:58:56Z",
-                "open_issues": 1938,
+                "open_issues": 1954,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 481132,
+                "stars": 481354,
                 "topics": [
                   "api",
                   "apis",
@@ -964,7 +964,7 @@
             "id": 703597759,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2025-06-27T07:54:56Z",
+            "last_commit": "2026-09-18T10:32:49Z",
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:31:40.347Z",
+    "last_updated": "2026-09-18T14:57:57.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
