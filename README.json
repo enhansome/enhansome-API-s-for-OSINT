@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "awesome",
               "awesome-list",
@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T11:40:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T01:53:18Z",
+            "open_issues": 5,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 728,
+            "stars": 727,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 151,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6666,
+            "stars": 6667,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 40,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3039,
+            "stars": 3040,
             "topics": [
               "youtube",
               "youtube-api",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "KartikTalwar",
             "repo": "Duolingo",
-            "stars": 906,
+            "stars": 907,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -409,7 +409,7 @@
             "open_issues": 151,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26818,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -572,7 +572,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2021-02-06T18:56:28Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "aviaryan",
             "repo": "python-gsearch",
             "stars": 220,
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T09:35:59Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-03T04:15:11Z",
+            "open_issues": 227,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16124,
+            "stars": 16127,
             "topics": [
               "api",
               "couchpotato",
@@ -866,7 +866,7 @@
             "open_issues": 45,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6344,
+            "stars": 6343,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -909,7 +909,7 @@
             {
               "node_type": "item",
               "title": "Public APIs Github repo",
-              "description": "https://github.com/public-apis/public-apis",
+              "description": "public-apis/public-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T21:21:39Z",
-                "open_issues": 1997,
+                "last_commit": "2026-10-02T22:24:14Z",
+                "open_issues": 1987,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 485487,
+                "stars": 485595,
                 "topics": [
                   "api",
                   "apis",
@@ -955,7 +955,7 @@
         {
           "node_type": "item",
           "title": "Netlas Cookbook",
-          "description": null,
+          "description": "netlas-io/netlas-cookbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:37:03.234Z",
+    "last_updated": "2026-10-03T04:23:36.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 22,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2567,
+      "stars": 2569,
       "topics": [
         "api",
         "api-rest",
