@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T05:27:43Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-04T12:37:25Z",
+            "open_issues": 6,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 727,
+            "stars": 728,
             "topics": [
               "ascii2d",
               "baidu",
@@ -247,10 +247,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T02:11:31Z",
-            "open_issues": 151,
+            "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6667,
+            "stars": 6672,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 41,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3041,
+            "stars": 3046,
             "topics": [
               "youtube",
               "youtube-api",
@@ -385,7 +385,7 @@
             "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3313,
+            "stars": 3312,
             "topics": [
               "instagram",
               "instagram-api"
@@ -409,7 +409,7 @@
             "open_issues": 151,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26818,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-03T07:35:21Z",
-            "open_issues": 225,
+            "last_commit": "2026-10-04T06:38:51Z",
+            "open_issues": 223,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16127,
+            "stars": 16136,
             "topics": [
               "api",
               "couchpotato",
@@ -866,7 +866,7 @@
             "open_issues": 45,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6346,
+            "stars": 6348,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:24:14Z",
-                "open_issues": 2009,
+                "last_commit": "2026-10-04T05:41:46Z",
+                "open_issues": 2001,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 485739,
+                "stars": 486022,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:08:03.298Z",
+    "last_updated": "2026-10-04T15:46:41.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 22,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2569,
+      "stars": 2571,
       "topics": [
         "api",
         "api-rest",
