@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "awesome",
               "awesome-list",
@@ -115,7 +115,7 @@
             "open_issues": 4,
             "owner": "fawazahmed0",
             "repo": "cloudflare-trace-api",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "cloudflare-api",
               "country",
@@ -150,7 +150,7 @@
             "open_issues": 1,
             "owner": "SOME-1HING",
             "repo": "google-reverse-image-api",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "google",
               "google-api",
@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T12:37:25Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-04T20:40:42Z",
+            "open_issues": 4,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6672,
+            "stars": 6673,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 41,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3046,
+            "stars": 3050,
             "topics": [
               "youtube",
               "youtube-api",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "KartikTalwar",
             "repo": "Duolingo",
-            "stars": 907,
+            "stars": 908,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T01:01:31Z",
-            "open_issues": 151,
+            "last_commit": "2026-10-05T16:16:11Z",
+            "open_issues": 154,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26819,
+            "stars": 26821,
             "topics": [
               "bot",
               "discord",
@@ -512,7 +512,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-12-30T00:34:32Z",
-            "open_issues": 7,
+            "open_issues": 0,
             "owner": "sskender",
             "repo": "pornhub-api",
             "stars": 463,
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-04T06:38:51Z",
+            "last_commit": "2026-10-05T17:36:30Z",
             "open_issues": 223,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16136,
+            "stars": 16142,
             "topics": [
               "api",
               "couchpotato",
@@ -809,7 +809,7 @@
             "open_issues": 21,
             "owner": "JimmyLaurent",
             "repo": "torrent-search-api",
-            "stars": 460,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -866,7 +866,7 @@
             "open_issues": 45,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6348,
+            "stars": 6347,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T05:41:46Z",
-                "open_issues": 2001,
+                "last_commit": "2026-10-05T04:32:07Z",
+                "open_issues": 2029,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 486022,
+                "stars": 486291,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 889,
+            "stars": 890,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:46:41.110Z",
+    "last_updated": "2026-10-05T20:04:39.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
