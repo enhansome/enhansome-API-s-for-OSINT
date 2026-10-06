@@ -310,7 +310,7 @@
             "open_issues": 41,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3054,
+            "stars": 3053,
             "topics": [
               "youtube",
               "youtube-api",
@@ -409,7 +409,7 @@
             "open_issues": 154,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26820,
+            "stars": 26818,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T06:04:55Z",
-            "open_issues": 223,
+            "last_commit": "2026-10-06T16:33:48Z",
+            "open_issues": 222,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16155,
+            "stars": 16157,
             "topics": [
               "api",
               "couchpotato",
@@ -866,7 +866,7 @@
             "open_issues": 45,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6350,
+            "stars": 6351,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T22:52:00Z",
-                "open_issues": 2024,
+                "open_issues": 2037,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 486433,
+                "stars": 486513,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:22:28.125Z",
+    "last_updated": "2026-10-06T17:09:51.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
