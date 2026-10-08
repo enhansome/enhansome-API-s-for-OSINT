@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6672,
+            "stars": 6674,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 41,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3056,
+            "stars": 3057,
             "topics": [
               "youtube",
               "youtube-api",
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T16:16:11Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-08T13:39:41Z",
+            "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26817,
+            "stars": 26815,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-07T17:14:01Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-08T17:46:51Z",
+            "open_issues": 221,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16165,
+            "stars": 16176,
             "topics": [
               "api",
               "couchpotato",
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T22:52:00Z",
-                "open_issues": 2062,
+                "open_issues": 2081,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 486704,
+                "stars": 486732,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:47:53.899Z",
+    "last_updated": "2026-10-08T17:51:19.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 22,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2576,
+      "stars": 2579,
       "topics": [
         "api",
         "api-rest",
