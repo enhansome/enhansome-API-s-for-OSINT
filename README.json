@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 894,
+            "stars": 893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -211,7 +211,7 @@
             "open_issues": 4,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 729,
+            "stars": 728,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6688,
+            "stars": 6690,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 45,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3065,
+            "stars": 3066,
             "topics": [
               "youtube",
               "youtube-api",
@@ -385,7 +385,7 @@
             "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3316,
+            "stars": 3318,
             "topics": [
               "instagram",
               "instagram-api"
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T15:29:33Z",
-            "open_issues": 158,
+            "last_commit": "2026-10-14T01:06:30Z",
+            "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26817,
+            "stars": 26816,
             "topics": [
               "bot",
               "discord",
@@ -494,7 +494,7 @@
             "open_issues": 2,
             "owner": "PaulSec",
             "repo": "API-dnsdumpster.com",
-            "stars": 282,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-13T17:54:52Z",
-            "open_issues": 217,
+            "last_commit": "2026-10-14T15:16:47Z",
+            "open_issues": 214,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16195,
+            "stars": 16201,
             "topics": [
               "api",
               "couchpotato",
@@ -863,7 +863,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-07T07:14:53Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "streaak",
             "repo": "keyhacks",
             "stars": 6355,
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-13T04:59:16Z",
-                "open_issues": 2138,
+                "open_issues": 2164,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 488336,
+                "stars": 488639,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 894,
+            "stars": 893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:14:47.169Z",
+    "last_updated": "2026-10-14T15:48:24.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -994,10 +994,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-05T09:57:16Z",
-      "open_issues": 22,
+      "open_issues": 23,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2591,
+      "stars": 2595,
       "topics": [
         "api",
         "api-rest",
