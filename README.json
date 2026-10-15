@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "awesome",
               "awesome-list",
@@ -409,7 +409,7 @@
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26816,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-14T15:16:47Z",
-            "open_issues": 214,
+            "last_commit": "2026-10-15T12:51:46Z",
+            "open_issues": 216,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16201,
+            "stars": 16205,
             "topics": [
               "api",
               "couchpotato",
@@ -769,7 +769,7 @@
             "open_issues": 10,
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
-            "stars": 425,
+            "stars": 424,
             "topics": [
               "1337x-api",
               "bitsearch-api",
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T04:59:16Z",
-                "open_issues": 2164,
+                "last_commit": "2026-10-14T19:16:34Z",
+                "open_issues": 2174,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 488639,
+                "stars": 488986,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:48:24.043Z",
+    "last_updated": "2026-10-15T15:34:52.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 23,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2595,
+      "stars": 2598,
       "topics": [
         "api",
         "api-rest",
