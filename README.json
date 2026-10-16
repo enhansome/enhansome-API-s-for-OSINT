@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6690,
+            "stars": 6693,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 45,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3066,
+            "stars": 3067,
             "topics": [
               "youtube",
               "youtube-api",
@@ -385,7 +385,7 @@
             "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3318,
+            "stars": 3319,
             "topics": [
               "instagram",
               "instagram-api"
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T01:06:30Z",
+            "last_commit": "2026-10-16T14:01:28Z",
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26819,
+            "stars": 26820,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-15T12:51:46Z",
-            "open_issues": 216,
+            "last_commit": "2026-10-16T06:01:23Z",
+            "open_issues": 210,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16205,
+            "stars": 16211,
             "topics": [
               "api",
               "couchpotato",
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T19:16:34Z",
-                "open_issues": 2174,
+                "last_commit": "2026-10-15T18:31:49Z",
+                "open_issues": 2182,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 488986,
+                "stars": 489372,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:34:52.616Z",
+    "last_updated": "2026-10-16T15:21:24.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
