@@ -207,8 +207,8 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T05:16:31Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-17T01:59:50Z",
+            "open_issues": 5,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
             "stars": 728,
@@ -307,10 +307,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-12T10:04:10Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3067,
+            "stars": 3070,
             "topics": [
               "youtube",
               "youtube-api",
@@ -385,7 +385,7 @@
             "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3319,
+            "stars": 3321,
             "topics": [
               "instagram",
               "instagram-api"
@@ -409,7 +409,7 @@
             "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26820,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -464,7 +464,7 @@
             "open_issues": 15,
             "owner": "christophersu",
             "repo": "quora-api",
-            "stars": 304,
+            "stars": 303,
             "topics": [
               "api",
               "flask",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-16T06:01:23Z",
-            "open_issues": 210,
+            "last_commit": "2026-10-17T05:55:23Z",
+            "open_issues": 213,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16211,
+            "stars": 16209,
             "topics": [
               "api",
               "couchpotato",
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T18:31:49Z",
-                "open_issues": 2182,
+                "open_issues": 2213,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 489372,
+                "stars": 489644,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T15:21:24.593Z",
+    "last_updated": "2026-10-17T14:10:57.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 23,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2598,
+      "stars": 2600,
       "topics": [
         "api",
         "api-rest",
