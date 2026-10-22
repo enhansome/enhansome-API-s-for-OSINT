@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T10:03:56Z",
+            "last_commit": "2026-10-22T12:50:48Z",
             "open_issues": 5,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 733,
+            "stars": 735,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6709,
+            "stars": 6713,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 45,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3074,
+            "stars": 3079,
             "topics": [
               "youtube",
               "youtube-api",
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T08:42:17Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-21T20:01:17Z",
+            "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26821,
+            "stars": 26819,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T05:56:27Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-22T13:52:38Z",
+            "open_issues": 224,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16236,
+            "stars": 16240,
             "topics": [
               "api",
               "couchpotato",
@@ -769,7 +769,7 @@
             "open_issues": 10,
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
-            "stars": 426,
+            "stars": 425,
             "topics": [
               "1337x-api",
               "bitsearch-api",
@@ -866,7 +866,7 @@
             "open_issues": 46,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6362,
+            "stars": 6363,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T07:01:10Z",
-                "open_issues": 2283,
+                "open_issues": 2312,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 491045,
+                "stars": 491312,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:55:56.181Z",
+    "last_updated": "2026-10-22T15:51:59.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 5,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2608,
+      "stars": 2611,
       "topics": [
         "api",
         "api-rest",
