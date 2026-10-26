@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "awesome",
               "awesome-list",
@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T21:35:56Z",
+            "last_commit": "2026-10-25T21:25:52Z",
             "open_issues": 5,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "ascii2d",
               "baidu",
@@ -310,7 +310,7 @@
             "open_issues": 45,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3084,
+            "stars": 3087,
             "topics": [
               "youtube",
               "youtube-api",
@@ -406,10 +406,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T20:11:33Z",
-            "open_issues": 159,
+            "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26823,
+            "stars": 26822,
             "topics": [
               "bot",
               "discord",
@@ -464,7 +464,7 @@
             "open_issues": 15,
             "owner": "christophersu",
             "repo": "quora-api",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "api",
               "flask",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-25T05:59:41Z",
-            "open_issues": 225,
+            "last_commit": "2026-10-26T16:25:33Z",
+            "open_issues": 220,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16263,
+            "stars": 16262,
             "topics": [
               "api",
               "couchpotato",
@@ -866,7 +866,7 @@
             "open_issues": 46,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6363,
+            "stars": 6364,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-24T09:30:33Z",
-                "open_issues": 2355,
+                "open_issues": 2392,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 492042,
+                "stars": 492366,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:56:43.305Z",
+    "last_updated": "2026-10-26T17:20:05.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -997,7 +997,7 @@
       "open_issues": 9,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2613,
+      "stars": 2615,
       "topics": [
         "api",
         "api-rest",
