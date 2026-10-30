@@ -73,7 +73,7 @@ Thank you for following me! <https://cybdetective.com>
 | Name        | Link                                                   | Description                                                                                                                                                                                | Price          |
 | ----------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
 | Shodan      | <https://developer.shodan.io>                          | Search engine for Internet connected host and devices                                                                                                                                      | from $59/month |
-| Netlas.io   | <https://docs.netlas.io/automation/>                   | Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook) ⭐ 896 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-18            | Partly FREE    |
+| Netlas.io   | <https://docs.netlas.io/automation/>                   | Search engine for Internet connected host and devices. Read more at [Netlas CookBook](https://github.com/netlas-io/netlas-cookbook) ⭐ 897 \| 🐛 0 \| 🌐 Python \| 📅 2026-09-18            | Partly FREE    |
 | Fofa.info   | <https://en.fofa.info/api>                             | Search engine for Internet connected host and devices                                                                                                                                      | from $25/month |
 | Censys.io   | <https://censys.io/api>                                | Search engine for Internet connected host and devices                                                                                                                                      | Partly FREE    |
 | Hunter.how  | <https://hunter.how/search-api>                        | Search engine for Internet connected host and devices                                                                                                                                      | Partly FREE    |
@@ -138,7 +138,7 @@ Thank you for following me! <https://cybdetective.com>
 | Domainsdb.info   | <https://domainsdb.info>                                                             | Registered Domain Names Search                                                                                                                                    | FREE                      |
 | BGPView          | <https://bgpview.docs.apiary.io/#>                                                   | allowing consumers to view all sort of analytics data about the current state and structure of the internet                                                       | FREE                      |
 | DNSCheck         | <https://www.dnscheck.co/api>                                                        | monitor the status of both individual DNS records and groups of related DNS records                                                                               | up to 10 DNS records/FREE |
-| Cloudflare Trace | <https://github.com/fawazahmed0/cloudflare-trace-api> ⭐ 195 \| 🐛 4 \| 📅 2024-08-20 | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
+| Cloudflare Trace | <https://github.com/fawazahmed0/cloudflare-trace-api> ⭐ 196 \| 🐛 4 \| 📅 2024-08-20 | Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More                                                                   | FREE                      |
 | Host.io          | <https://host.io/>                                                                   | Get info about domain                                                                                                                                             | FREE                      |
 | Frostbyte DNS    | <https://agent-gateway-kappa.vercel.app>                                             | DNS record lookup and resolution — query A, AAAA, MX, TXT, NS, CNAME and other record types for any domain                                                        | 200 credits FREE          |
 | Kiprio Cert      | <https://kiprio.com/v1/cert/>                                                        | Inspect SSL/TLS certificates for any domain — expiry date, issuer, SANs, and full chain details                                                                   | FREE                      |
@@ -337,7 +337,7 @@ Thank you for following me! <https://cybdetective.com>
 | Blogger                                    | <https://developers.google.com/blogger/>                                                                    | The Blogger APIs allows client applications to view and update Blogger content                    | FREE  |
 | Disqus                                     | <https://disqus.com/api/docs/auth/>                                                                         | Communicate with Disqus data                                                                      | FREE  |
 | Foursquare                                 | <https://developer.foursquare.com/>                                                                         | Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc) | FREE  |
-| HackerNews                                 | <https://github.com/HackerNews/API> ⭐ 13,384 \| 🐛 5 \| 📅 2025-01-01                                       | Social news for CS and entrepreneurship                                                           | FREE  |
+| HackerNews                                 | <https://github.com/HackerNews/API> ⭐ 13,386 \| 🐛 5 \| 📅 2025-01-01                                       | Social news for CS and entrepreneurship                                                           | FREE  |
 | Kakao                                      | <https://developers.kakao.com/>                                                                             | Kakao Login, Share on KakaoTalk, Social Plugins and more                                          | FREE  |
 | Line                                       | <https://developers.line.biz/>                                                                              | Line Login, Share on Line, Social Plugins and more                                                | FREE  |
 | TikTok                                     | <https://developers.tiktok.com/doc/login-kit-web>                                                           | Fetches user info and user's video posts on TikTok platform                                       | FREE  |
@@ -350,20 +350,20 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name          | Link                                                                                                   | Description                                                                   | Price |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----- |
-| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,720 \| 🐛 150 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
+| TikTok        | <https://github.com/davidteather/TikTok-Api> ⭐ 6,723 \| 🐛 150 \| 🌐 Python \| 📅 2026-08-24           | The Unofficial TikTok API Wrapper In Python                                   | FREE  |
 | Google Trends | <https://github.com/suryasev/unofficial-google-trends-api> ⭐ 222 \| 🐛 7 \| 🌐 Python \| 📅 2020-04-11 | Unofficial Google Trends API                                                  | FREE  |
 | YouTube Music | <https://github.com/sigma67/ytmusicapi> ⭐ 3,089 \| 🐛 45 \| 🌐 Python \| 📅 2026-10-12                 | Unofficial APi for YouTube Music                                              | FREE  |
 | Google Maps   | <https://apify.com/compass/crawler-google-places>                                                      | Unofficial Google Places API                                                  | FREE  |
 | Duolingo      | <https://github.com/KartikTalwar/Duolingo> ⭐ 908 \| 🐛 40 \| 🌐 Python \| 📅 2024-04-12                | Duolingo unofficial API (can gather info about users)                         | FREE  |
 | Steam.        | <https://github.com/smiley/steamapi> ⚠️ Archived                                                       | An unofficial object-oriented Python library for accessing the Steam Web API. | FREE  |
 | Instagram     | <https://github.com/ping/instagram_private_api> ⭐ 3,322 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                         | FREE  |
-| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,826 \| 🐛 159 \| 🌐 TypeScript \| 📅 2026-10-23         | JavaScript library for interacting with the Discord API                       | FREE  |
+| Discord       | <https://github.com/discordjs/discord.js> ⭐ 26,824 \| 🐛 155 \| 🌐 TypeScript \| 📅 2026-10-30         | JavaScript library for interacting with the Discord API                       | FREE  |
 | Zhihu         | <https://github.com/syaning/zhihu-api> ⚠️ Archived                                                     | FREE Unofficial API for Zhihu                                                 | FREE  |
 | Quora         | <https://github.com/csu/quora-api> ⭐ 304 \| 🐛 15 \| 🌐 Python \| 📅 2016-10-09                        | Unofficial API for Quora                                                      | FREE  |
 | DnsDumbster   | <https://github.com/PaulSec/API-dnsdumpster.com> ⭐ 284 \| 🐛 2 \| 🌐 Python \| 📅 2026-03-25           | (Unofficial) Python API for DnsDumbster                                       | FREE  |
 | PornHub       | <https://github.com/sskender/pornhub-api> ⭐ 464 \| 🐛 0 \| 🌐 Python \| 📅 2023-12-30                  | Unofficial API for PornHub in Python                                          | FREE  |
 | Skype         | <https://github.com/ShyykoSerhiy/skyweb> ⭐ 196 \| 🐛 36 \| 🌐 TypeScript \| 📅 2021-12-17              | Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol.                  | FREE  |
-| Google Search | <https://github.com/aviaryan/python-gsearch> ⭐ 220 \| 🐛 9 \| 🌐 Python \| 📅 2021-02-06               | Google Search unofficial API for Python with no external dependencies         | FREE  |
+| Google Search | <https://github.com/aviaryan/python-gsearch> ⭐ 219 \| 🐛 9 \| 🌐 Python \| 📅 2021-02-06               | Google Search unofficial API for Python with no external dependencies         | FREE  |
 | Airbnb        | <https://github.com/nderkach/airbnb-python> ⭐ 203 \| 🐛 15 \| 🌐 Python \| 📅 2022-12-08               | Python wrapper around the Airbnb API (unofficial)                             | FREE  |
 | Medium        | <https://github.com/enginebai/PyMedium> ⭐ 165 \| 🐛 8 \| 🌐 Python \| 📅 2021-03-19                    | Unofficial Medium Python Flask API and SDK                                    | FREE  |
 | Facebook      | <https://github.com/davidyen1124/Facebot> ⚠️ Archived                                                  | Powerful unofficial Facebook API                                              | FREE  |
@@ -406,7 +406,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name               | Link                                                                                                                         | Description                                                                                                                                                         | Price                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 16,281 \| 🐛 221 \| 🌐 C# \| 📅 2026-10-29                                            | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
+| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 16,290 \| 🐛 219 \| 🌐 C# \| 📅 2026-10-30                                            | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
 | Torrents API PY    | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) ⭐ 428 \| 🐛 10 \| 🌐 Python \| 📅 2025-02-17 | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre     | FREE                 |
 | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/)                                   | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt                                                                                            | 500 queries/day FREE |
 | Torrent search api | <https://github.com/JimmyLaurent/torrent-search-api> ⭐ 459 \| 🐛 21 \| 🌐 HTML \| 📅 2024-08-12                              | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE                 |
@@ -489,7 +489,7 @@ Thank you for following me! <https://cybdetective.com>
 
 | Name             | Link                                                                           | Description                                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Keyhacks         | <https://github.com/streaak/keyhacks> ⭐ 6,363 \| 🐛 46 \| 📅 2026-08-07        | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. |
+| Keyhacks         | <https://github.com/streaak/keyhacks> ⭐ 6,365 \| 🐛 46 \| 📅 2026-08-07        | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. |
 | All about APIKey | <https://github.com/daffainfo/all-about-apikey> ⭐ 302 \| 🐛 1 \| 📅 2023-09-26 | Detailed information about API key / OAuth token for different services (Description, Request, Response, Regex, Example)                 |
 | API Guessr       | <https://api-guesser.netlify.app/>                                             | Enter API Key and and find out which service they belong to                                                                              |
 
@@ -506,13 +506,13 @@ Thank you for following me! <https://cybdetective.com>
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 493,210 \| 🐛 2,474 \| 🌐 Python \| 📅 2026-10-29 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 493,481 \| 🐛 2,477 \| 🌐 Python \| 📅 2026-10-30 |             |
 
 ## How to learn how to work with REST API?
 
 If you don't know how to work with the REST API, I recommend you check out the Netlas API guide I wrote for Netlas.io.
 
-[Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 896 | 🐛 0 | 🌐 Python | 📅 2026-09-18
+[Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 897 | 🐛 0 | 🌐 Python | 📅 2026-09-18
 
 There it is very brief and accessible to write how to automate requests in different programming languages (focus on Python and Bash) and process the resulting JSON data.
 
@@ -530,4 +530,4 @@ This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
