@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T23:59:16Z",
+            "last_commit": "2026-11-08T12:30:49Z",
             "open_issues": 6,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 740,
+            "stars": 738,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6734,
+            "stars": 6736,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 43,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3108,
+            "stars": 3109,
             "topics": [
               "youtube",
               "youtube-api",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "KartikTalwar",
             "repo": "Duolingo",
-            "stars": 909,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -406,7 +406,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T16:38:38Z",
-            "open_issues": 154,
+            "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
             "stars": 26826,
@@ -440,7 +440,7 @@
             "open_issues": 0,
             "owner": "syaning",
             "repo": "zhihu-api",
-            "stars": 266,
+            "stars": 265,
             "topics": [
               "zhihu",
               "zhihu-api"
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-07T05:46:34Z",
-            "open_issues": 212,
+            "last_commit": "2026-11-08T16:31:44Z",
+            "open_issues": 211,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16328,
+            "stars": 16335,
             "topics": [
               "api",
               "couchpotato",
@@ -830,7 +830,7 @@
             "open_issues": 9,
             "owner": "sergiotapia",
             "repo": "torrentinim",
-            "stars": 827,
+            "stars": 826,
             "topics": [
               "bittorrent",
               "p2p",
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T18:06:53Z",
-                "open_issues": 2610,
+                "last_commit": "2026-11-07T19:45:54Z",
+                "open_issues": 2600,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 496940,
+                "stars": 497244,
                 "topics": [
                   "api",
                   "apis",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:49:44.265Z",
+    "last_updated": "2026-11-08T17:01:14.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
