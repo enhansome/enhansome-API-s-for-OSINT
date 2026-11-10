@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "awesome",
               "awesome-list",
@@ -207,7 +207,7 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T17:57:17Z",
+            "last_commit": "2026-11-10T13:08:35Z",
             "open_issues": 6,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
@@ -337,7 +337,7 @@
             "open_issues": 40,
             "owner": "KartikTalwar",
             "repo": "Duolingo",
-            "stars": 910,
+            "stars": 911,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -358,7 +358,7 @@
             "open_issues": 9,
             "owner": "smiley",
             "repo": "steamapi",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "python",
               "rest",
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:38:38Z",
-            "open_issues": 155,
+            "last_commit": "2026-11-10T14:43:27Z",
+            "open_issues": 157,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26829,
+            "stars": 26831,
             "topics": [
               "bot",
               "discord",
@@ -464,7 +464,7 @@
             "open_issues": 15,
             "owner": "beeeeeeeans",
             "repo": "quora-api",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "api",
               "flask",
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "sskender",
             "repo": "pornhub-api",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "api",
               "beautifulsoup",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-09T17:26:06Z",
-            "open_issues": 220,
+            "last_commit": "2026-11-10T17:00:32Z",
+            "open_issues": 219,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16343,
+            "stars": 16347,
             "topics": [
               "api",
               "couchpotato",
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-07T19:45:54Z",
-                "open_issues": 2594,
+                "open_issues": 2620,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 497586,
+                "stars": 497883,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:24:59.474Z",
+    "last_updated": "2026-11-10T18:38:59.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -994,10 +994,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-06T18:23:30Z",
-      "open_issues": 9,
+      "open_issues": 16,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2649,
+      "stars": 2650,
       "topics": [
         "api",
         "api-rest",
