@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 903,
+            "stars": 905,
             "topics": [
               "awesome",
               "awesome-list",
@@ -207,11 +207,11 @@
             "id": 302907175,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T01:11:55Z",
+            "last_commit": "2026-11-13T16:59:07Z",
             "open_issues": 6,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 738,
+            "stars": 737,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6743,
+            "stars": 6748,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 44,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3116,
+            "stars": 3118,
             "topics": [
               "youtube",
               "youtube-api",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-12T16:09:44Z",
-            "open_issues": 218,
+            "last_commit": "2026-11-13T17:16:05Z",
+            "open_issues": 219,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16362,
+            "stars": 16367,
             "topics": [
               "api",
               "couchpotato",
@@ -769,7 +769,7 @@
             "open_issues": 10,
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "1337x-api",
               "bitsearch-api",
@@ -866,7 +866,7 @@
             "open_issues": 46,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6376,
+            "stars": 6377,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -918,11 +918,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T16:37:57Z",
-                "open_issues": 2656,
+                "last_commit": "2026-11-13T17:59:59Z",
+                "open_issues": 2667,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 498495,
+                "stars": 498730,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 903,
+            "stars": 905,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:52:36.521Z",
+    "last_updated": "2026-11-13T18:29:41.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -993,11 +993,11 @@
       "id": 422519786,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-06T18:23:30Z",
-      "open_issues": 13,
+      "last_commit": "2026-11-13T17:31:29Z",
+      "open_issues": 5,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2652,
+      "stars": 2656,
       "topics": [
         "api",
         "api-rest",
@@ -1008,7 +1008,7 @@
         "osint"
       ]
     },
-    "original_repository_sha": "c735f9cae9af7cdd9a8c03f571f098efe5a9d36f",
+    "original_repository_sha": "3b3b56e869a8880a415a86a50c306d9cdffbd6b3",
     "enhanced_repository": "enhansome/enhansome-API-s-for-OSINT",
     "enhanced_repository_description": null,
     "title": "Awesome API s for OSINT with stars"
