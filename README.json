@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 907,
+            "stars": 909,
             "topics": [
               "awesome",
               "awesome-list",
@@ -211,7 +211,7 @@
             "open_issues": 7,
             "owner": "kitUIN",
             "repo": "PicImageSearch",
-            "stars": 737,
+            "stars": 738,
             "topics": [
               "ascii2d",
               "baidu",
@@ -250,7 +250,7 @@
             "open_issues": 150,
             "owner": "davidteather",
             "repo": "TikTok-Api",
-            "stars": 6753,
+            "stars": 6756,
             "topics": [
               "api",
               "download-tiktoks",
@@ -310,7 +310,7 @@
             "open_issues": 44,
             "owner": "sigma67",
             "repo": "ytmusicapi",
-            "stars": 3118,
+            "stars": 3119,
             "topics": [
               "youtube",
               "youtube-api",
@@ -385,7 +385,7 @@
             "open_issues": 160,
             "owner": "ping",
             "repo": "instagram_private_api",
-            "stars": 3327,
+            "stars": 3328,
             "topics": [
               "instagram",
               "instagram-api"
@@ -405,11 +405,11 @@
             "id": 40484398,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T19:11:34Z",
+            "last_commit": "2026-11-15T17:28:08Z",
             "open_issues": 156,
             "owner": "discordjs",
             "repo": "discord.js",
-            "stars": 26835,
+            "stars": 26837,
             "topics": [
               "bot",
               "discord",
@@ -723,11 +723,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-14T05:48:21Z",
+            "last_commit": "2026-11-15T05:48:36Z",
             "open_issues": 220,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16371,
+            "stars": 16372,
             "topics": [
               "api",
               "couchpotato",
@@ -769,7 +769,7 @@
             "open_issues": 10,
             "owner": "Ryuk-me",
             "repo": "Torrent-Api-py",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "1337x-api",
               "bitsearch-api",
@@ -830,7 +830,7 @@
             "open_issues": 9,
             "owner": "sergiotapia",
             "repo": "torrentinim",
-            "stars": 826,
+            "stars": 825,
             "topics": [
               "bittorrent",
               "p2p",
@@ -866,7 +866,7 @@
             "open_issues": 46,
             "owner": "streaak",
             "repo": "keyhacks",
-            "stars": 6378,
+            "stars": 6377,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:07.659Z"
@@ -919,10 +919,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-13T17:59:59Z",
-                "open_issues": 2697,
+                "open_issues": 2725,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 498972,
+                "stars": 499246,
                 "topics": [
                   "api",
                   "apis",
@@ -968,7 +968,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-cookbook",
-            "stars": 907,
+            "stars": 909,
             "topics": [
               "awesome",
               "awesome-list",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:01:32.188Z",
+    "last_updated": "2026-11-15T17:40:56.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
@@ -993,11 +993,11 @@
       "id": 422519786,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-14T16:15:48Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-15T10:20:14Z",
+      "open_issues": 5,
       "owner": "cipher387",
       "repo": "API-s-for-OSINT",
-      "stars": 2657,
+      "stars": 2659,
       "topics": [
         "api",
         "api-rest",
@@ -1008,7 +1008,7 @@
         "osint"
       ]
     },
-    "original_repository_sha": "3417870b00d9e166aa54d2b8d2d76d0319a09375",
+    "original_repository_sha": "a34d270530b5a5a8998b5a454c99dd4ad960ab11",
     "enhanced_repository": "enhansome/enhansome-API-s-for-OSINT",
     "enhanced_repository_description": null,
     "title": "Awesome API s for OSINT with stars"
