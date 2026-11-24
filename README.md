@@ -87,7 +87,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | Name         | Link                                     | Description                                                                                                                                                                                                                                                                               | Price                                                             |
 | ------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Noimosiny    | <https://noimosiny.com/>                 | Email, phone and username lookup. 250+ modules                                                                                                                                                                                                                                            | PAID                                                              |
-| Social Links | <https://sociallinks.io/products/sl-api> | Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) ⭐ 133 \| 🐛 2 \| 🌐 Python \| 📅 2025-04-15 | PAID. Price per request                                           |
+| Social Links | <https://sociallinks.io/products/sl-api> | Email info lookup, phone info lookup, individual and company profiling, social media tracking, dark web monitoring and more. Code example of using this API for face search in this [repo](https://github.com/SocialLinks-IO/sociallinks-api) ⭐ 134 \| 🐛 2 \| 🌐 Python \| 📅 2025-04-15 | PAID. Price per request                                           |
 | Opsis        | <https://useopsis.com/docs/api>          | Email and username lookup API. Searches 1,000+ modules and returns structured JSON with the profile details each source exposes, with streaming progress                                                                                                                                  | PAID. API access on the Pro plan, prepaid credits from $20 for 50 |
 
 ## Phone Number Lookup and Verification
@@ -379,14 +379,14 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 
 | Name             | Link                                                                                                   | Description                                                                                                   | Price |
 | ---------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ----- |
-| TikTok           | <https://github.com/davidteather/TikTok-Api> ⭐ 6,766 \| 🐛 150 \| 🌐 Python \| 📅 2026-11-14           | The Unofficial TikTok API Wrapper In Python                                                                   | FREE  |
+| TikTok           | <https://github.com/davidteather/TikTok-Api> ⭐ 6,767 \| 🐛 149 \| 🌐 Python \| 📅 2026-11-14           | The Unofficial TikTok API Wrapper In Python                                                                   | FREE  |
 | Google Trends    | <https://github.com/suryasev/unofficial-google-trends-api> ⭐ 222 \| 🐛 7 \| 🌐 Python \| 📅 2020-04-11 | Unofficial Google Trends API                                                                                  | FREE  |
-| YouTube Music    | <https://github.com/sigma67/ytmusicapi> ⭐ 3,138 \| 🐛 47 \| 🌐 Python \| 📅 2026-11-23                 | Unofficial APi for YouTube Music                                                                              | FREE  |
+| YouTube Music    | <https://github.com/sigma67/ytmusicapi> ⭐ 3,141 \| 🐛 47 \| 🌐 Python \| 📅 2026-11-23                 | Unofficial APi for YouTube Music                                                                              | FREE  |
 | Google Maps      | <https://apify.com/compass/crawler-google-places>                                                      | Unofficial Google Places API                                                                                  | FREE  |
 | Duolingo         | <https://github.com/KartikTalwar/Duolingo> ⭐ 911 \| 🐛 40 \| 🌐 Python \| 📅 2024-04-12                | Duolingo unofficial API (can gather info about users)                                                         | FREE  |
 | Steam.           | <https://github.com/smiley/steamapi> ⚠️ Archived                                                       | An unofficial object-oriented Python library for accessing the Steam Web API.                                 | FREE  |
-| Instagram        | <https://github.com/ping/instagram_private_api> ⭐ 3,327 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                                                         | FREE  |
-| Discord          | <https://github.com/discordjs/discord.js> ⭐ 26,839 \| 🐛 124 \| 🌐 TypeScript \| 📅 2026-11-23         | JavaScript library for interacting with the Discord API                                                       | FREE  |
+| Instagram        | <https://github.com/ping/instagram_private_api> ⭐ 3,329 \| 🐛 160 \| 🌐 Python \| 📅 2024-05-06        | Instagram Private API                                                                                         | FREE  |
+| Discord          | <https://github.com/discordjs/discord.js> ⭐ 26,836 \| 🐛 126 \| 🌐 TypeScript \| 📅 2026-11-24         | JavaScript library for interacting with the Discord API                                                       | FREE  |
 | Zhihu            | <https://github.com/syaning/zhihu-api> ⚠️ Archived                                                     | FREE Unofficial API for Zhihu                                                                                 | FREE  |
 | Quora            | <https://github.com/csu/quora-api> ⭐ 304 \| 🐛 15 \| 🌐 Python \| 📅 2016-10-09                        | Unofficial API for Quora                                                                                      | FREE  |
 | DnsDumbster      | <https://github.com/PaulSec/API-dnsdumpster.com> ⭐ 285 \| 🐛 2 \| 🌐 Python \| 📅 2026-03-25           | (Unofficial) Python API for DnsDumbster                                                                       | FREE  |
@@ -437,7 +437,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 
 | Name               | Link                                                                                                                         | Description                                                                                                                                                         | Price                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 16,405 \| 🐛 225 \| 🌐 C# \| 📅 2026-11-23                                            | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
+| Jackett            | <https://github.com/Jackett/Jackett> ⭐ 16,410 \| 🐛 220 \| 🌐 C# \| 📅 2026-11-24                                            | API for automate searching in different torrent trackers                                                                                                            | FREE                 |
 | Torrents API PY    | [https://github.com/Jackett/Jackett](https://github.com/Ryuk-me/Torrent-Api-py) ⭐ 430 \| 🐛 10 \| 🌐 Python \| 📅 2025-02-17 | Unofficial API for 1337x, Piratebay, Nyaasi, Torlock, Torrent Galaxy, Zooqle, Kickass, Bitsearch, MagnetDL,Libgen, YTS, Limetorrent, TorrentFunk, Glodls, Torre     | FREE                 |
 | Torrent Search API | [https://github.com/Jackett/Jackett](https://rapidapi.com/theoneappkh/api/torrent-search/)                                   | API for Torrent Search Engine with Extratorrents, Piratebay, and ISOhunt                                                                                            | 500 queries/day FREE |
 | Torrent search api | <https://github.com/JimmyLaurent/torrent-search-api> ⭐ 459 \| 🐛 21 \| 🌐 HTML \| 📅 2024-08-12                              | Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Eztv, Yts, LimeTorrents) | FREE                 |
@@ -520,7 +520,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 
 | Name             | Link                                                                           | Description                                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Keyhacks         | <https://github.com/streaak/keyhacks> ⭐ 6,390 \| 🐛 46 \| 📅 2026-08-07        | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. |
+| Keyhacks         | <https://github.com/streaak/keyhacks> ⭐ 6,392 \| 🐛 46 \| 📅 2026-08-07        | Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. |
 | All about APIKey | <https://github.com/daffainfo/all-about-apikey> ⭐ 301 \| 🐛 1 \| 📅 2023-09-26 | Detailed information about API key / OAuth token for different services (Description, Request, Response, Regex, Example)                 |
 | API Guessr       | <https://api-guesser.netlify.app/>                                             | Enter API Key and and find out which service they belong to                                                                              |
 
@@ -537,7 +537,7 @@ If you’re looking for the most versatile solution for investigations, try OneQ
 | APIs List               | <https://apislist.com/>                                                                          |             |
 | API Context Directory   | <https://apicontext.com/api-directory/>                                                          |             |
 | Any API                 | <https://any-api.com/>                                                                           |             |
-| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 501,041 \| 🐛 2,863 \| 🌐 Python \| 📅 2026-11-22 |             |
+| Public APIs Github repo | <https://github.com/public-apis/public-apis> ⭐ 501,201 \| 🐛 2,900 \| 🌐 Python \| 📅 2026-11-22 |             |
 
 ## How to learn how to work with REST API?
 
@@ -561,4 +561,4 @@ This work is licensed under a [CC0 1.0 Universal](LICENSE.md) license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
